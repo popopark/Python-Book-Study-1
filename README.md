@@ -1,2 +1,2 @@
-# python-01
-파이썬 기본
+# Python-Book-Study-1
+혼자 공부하는 파이썬
